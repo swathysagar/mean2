@@ -1,0 +1,32 @@
+div {
+    text-align: center;
+    border-style: dotted;
+    border-color: blueviolet;
+    border-width: 5px;
+    background-color: cyan;
+    width: 50%;
+    margin: auto;
+}
+
+
+h1{
+   text-align: center; 
+}
+#mi{
+    border-style: double;
+    border-color: darkgoldenrod;
+    background-color: darkmagenta;
+    
+
+}
+.team{
+    border-style: groove;
+    border-color: darkslategrey;
+    border-width: 4px;
+    background-color: transparent;
+
+}
+body{
+    background-image: url("malabar-chicken-biryani1.jpg");
+    background-size: cover;
+}

@@ -1,0 +1,19 @@
+#top{
+    text-align: center;
+    border-style: solid;
+    border-color: firebrick;
+    width: 50%;
+    margin-left: 80px;
+    background-color: gold;
+    padding-left: 20%;
+}
+#bottom{
+    border-style: solid;
+    border-color: firebrick;
+    width: 50%;
+    margin-top: 500px;
+    margin-left: 350px;
+}
+h1{
+    font-family: 'Big Shoulders Stencil Display', cursive;
+}
